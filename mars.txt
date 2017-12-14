@@ -2,4 +2,8 @@ Cold and dry, but everything is my favourite colour
 The two moons may be a problem for Wolfman
 Venus considered as a base
 where is the probe?
+<<<<<<< HEAD
 Sure is cold up here
+=======
+by the red spot
+>>>>>>> 49799905245d0de10180d7b94b087ed57359f2c1
